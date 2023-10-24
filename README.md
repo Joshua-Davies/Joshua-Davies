@@ -7,7 +7,6 @@ I'm Joshua, a Human based in New Zealand. Welcome to my GitHub profile! Here you
 - 🔭 I'm currently working on random websites.
 - 🌱 I'm passionate about photography, art, and computer science.
 - 💬 Ask me about last night.
-- 📫 How to reach me: joshuadav808@gmail.com
 - 😄 Pronouns: He/Him
 
 
