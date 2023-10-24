@@ -4,7 +4,7 @@ I'm Joshua, a Human based in New Zealand. Welcome to my GitHub profile! Here you
 
 ## About Me
 
-- 🔭 I'm currently working on being random websites.
+- 🔭 I'm currently working on random websites.
 - 🌱 I'm passionate about photography, art, and computer science.
 - 💬 Ask me about last night.
 - 📫 How to reach me: joshuadav808@gmail.com
@@ -15,10 +15,10 @@ I'm Joshua, a Human based in New Zealand. Welcome to my GitHub profile! Here you
 
 Here are some of my noteworthy projects:
 
-1.   Randomsites(https://github.com/Joshua-Davies/randomsites)
+1.   [Randomsites](https://github.com/Joshua-Davies/randomsites)
    - Description: A simple website, that takes you to one of my random websites.
 
-2.   Petrock-mod(https://github.com/Joshua-Davies/petrock-mod)
+2.   [Petrock-mod](https://github.com/Joshua-Davies/petrock-mod)
    - Description: The Pet Rock Mod is a fun and quirky Minecraft modification that allows you to craft your very own pet rock.
 
 
@@ -26,6 +26,7 @@ Here are some of my noteworthy projects:
 
 Feel free to connect with me on social media or reach out via email:
 
+- [Instagram](https://www.instagram.com/joshuadaviesofficial/)
 - [Email](joshuadav808@gmail.com)
 
 Thanks for visiting my GitHub profile! I look forward to connecting with you.
