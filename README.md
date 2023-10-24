@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Joshua-Davies/Joshua-Davies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Joshua, a Human based in New Zealand. Welcome to my GitHub profile! Here you'll find a collection of my projects and contributions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on being random websites.
+- 🌱 I'm passionate about photography, art, and computer science.
+- 💬 Ask me about last night.
+- 📫 How to reach me: joshuadav808@gmail.com
+- 😄 Pronouns: He/Him
+
+
+## My Projects
+
+Here are some of my noteworthy projects:
+
+1.   Randomsites(https://github.com/Joshua-Davies/randomsites)
+   - Description: A simple website, that takes you to one of my random websites.
+
+2.   Petrock-mod(https://github.com/Joshua-Davies/petrock-mod)
+   - Description: The Pet Rock Mod is a fun and quirky Minecraft modification that allows you to craft your very own pet rock.
+
+
+## Let's Connect
+
+Feel free to connect with me on social media or reach out via email:
+
+- [Email](joshuadav808@gmail.com)
+
+Thanks for visiting my GitHub profile! I look forward to connecting with you.
+
